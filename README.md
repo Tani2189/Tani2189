@@ -1,4 +1,3 @@
-![MasterHead](https://miro.medium.com/max/1400/0*Yb_BsikIKFAtuKj9.gif)
 <h1 align="center">Hi 👋, I'm Tanishq</h1>
 <h3 align="center">An Aspiring ai ml developer and video editor.</h3>
 <img align='right' alt="Coding" width="400" src="https://c.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
