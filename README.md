@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tani2189&label=Profile%20views&color=0e75b6&style=flat" alt="tani2189" /> </p>
 
-- 🌱 I’m currently learning **Quantum Computing**
+- 🌱 I’m currently learning **Quantum Computing & Neural Net**
 
 - 💬 Basic understanding in the field of **python,C++,Artifical Intelligence and Machine Learning**
 
