@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Tanishq</h1>
-<h3 align="center">An Aspiring ai ml developer and video editor.</h3>
+<h3 align="center">Quantum Research Devloper.</h3>
 <img align='right' alt="Coding" width="400" src="https://c.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tani2189&label=Profile%20views&color=0e75b6&style=flat" alt="tani2189" /> </p>
 
-- 🌱 I’m currently learning **Quantum Computing & Neural Net**
+- 🌱 I’m currently learning and Exploring deeply in **Quantum Computing, Quantum Mechanics and PINNs**
 
-- 💬 Basic understanding in the field of **python,C++,Artifical Intelligence and Machine Learning**
+- 💬 Understanding in the field of **python,C++,Artifical Intelligence, Machine Learning and Quantum Computing**
 
 - 📫 How to reach me **tanishqkumar678@gmail.com**
 
